@@ -1,1 +1,1 @@
-# R25EH150
+Hi, I’m Tesia Srivastava, a B.Tech student specializing in Artificial Intelligence and Data Science. I am interested in software development, artificial intelligence, data science, web development, and emerging technologies. I enjoy building projects, learning new technical skills, and exploring practical solutions to real-world problems. This repository contains my learning work, projects, experiments, and development journey.
